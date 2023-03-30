@@ -9,7 +9,7 @@ env:
   LOCATION: centralus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: b0de9076-9f80-470a-b38f-fcb43cbb325e
-  WEBAPP-NAME: az400-webapp-tomfoxbox2
+  WEBAPP-NAME: az400-webapp-tomfoxbox22
 
 
 jobs:
